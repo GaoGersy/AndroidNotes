@@ -13,3 +13,6 @@ Android开源框架学习思维导图
 
 Dagger2
 Retrofit
+
+#### 注：[请使用Xmind打开思维导图文件](http://www.xmindchina.net/)
+
